@@ -3,13 +3,11 @@
 
 </p>
 
-## 🖥️ Projeto
-
-Contador usando Javascript 
+## Contador usando Javascript 
 
 ## para observar melhor o resultado: https://brbmiranda.github.io/contador-js/
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 - Javascript
 - HTML
