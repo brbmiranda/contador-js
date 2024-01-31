@@ -3,9 +3,9 @@
 
 </p>
 
-## Contador usando Javascript 
+##  Contador usando Javascript 
 
-## para observar melhor o resultado: https://brbmiranda.github.io/contador-js/
+##  Resultado: https://brbmiranda.github.io/contador-js/
 
 ##  Tecnologias
 
